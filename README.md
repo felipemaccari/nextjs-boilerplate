@@ -1,1 +1,4 @@
-# nextjs-boilerplate
+nextjs boilerplate
+
+[x] Nextjs
+[x] Typescript
