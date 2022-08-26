@@ -8,4 +8,19 @@
 
 [x] Eslint e prettier
 
+[x] Commitlint
+
 [x] Githooks
+
+- pre-push: build
+- pre-commit: lint
+- commit-msg: commitlint
+
+[x] Vscode default configuration
+
+[x] Directory structure
+
+- components
+- types
+
+[ ] Nextjs layout default configuration
