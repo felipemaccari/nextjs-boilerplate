@@ -23,4 +23,4 @@
 - components
 - types
 
-[ ] Nextjs layout default configuration
+[x] Nextjs layout default configuration
