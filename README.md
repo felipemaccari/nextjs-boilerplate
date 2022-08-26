@@ -7,3 +7,5 @@
 [x] Engine Locking (node 16 lts/gallium, yarn)
 
 [x] Eslint e prettier
+
+[x] Githooks
